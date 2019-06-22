@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de22a91b-5fde-455a-b4e0-62480c6624d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafio_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,51 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_05.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_06.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Desafio_07.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -67,37 +23,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_08.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_09.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Desafio_10.py">
+        <entry file="file://$PROJECT_DIR$/Desafio_11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Desafio_11.py">
+        <entry file="file://$PROJECT_DIR$/Desafio_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="102">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -128,12 +66,12 @@
         <option value="$PROJECT_DIR$/Desafio_09.py" />
         <option value="$PROJECT_DIR$/Desafio_10.py" />
         <option value="$PROJECT_DIR$/Desafio_11.py" />
+        <option value="$PROJECT_DIR$/Desafio_12.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1123" />
-    <option name="width" value="797" />
+    <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,28 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Desafio_11">
-    <configuration name="Desafio_07" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Script_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio_07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio_12">
     <configuration name="Desafio_08" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Script_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,13 +198,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio_12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Script_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio_12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio_12" />
         <item itemvalue="Python.Desafio_11" />
         <item itemvalue="Python.Desafio_10" />
         <item itemvalue="Python.Desafio_09" />
         <item itemvalue="Python.Desafio_08" />
-        <item itemvalue="Python.Desafio_07" />
       </list>
     </recent_temporary>
   </component>
@@ -363,6 +301,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Desafio_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -377,31 +329,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Desafio_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Desafio_06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Desafio_07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Desafio_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -412,17 +343,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Desafio_10.py">
+    <entry file="file://$PROJECT_DIR$/Desafio_08.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Desafio_11.py">
+    <entry file="file://$PROJECT_DIR$/Desafio_05.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="51">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desafio_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
