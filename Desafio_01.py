@@ -1,0 +1,7 @@
+nome = input ('Qual é o seu nome?')
+sobrenome = input ('seu sobrenome é: ')
+idade = input ('Qual é a sua idade?')
+peso = input ('Qual é o seu peso?')
+print ('Seu nome:',nome, 'Sua idade:', idade,'seu peso:', peso)
+print ('Bem vinda,', nome,'!', 'Prazer em te conhecer!')
+print ('Srta. {}, você será uma ótima programado(a) de Python!'.format(sobrenome))
